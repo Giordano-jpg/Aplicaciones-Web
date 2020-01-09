@@ -16,7 +16,10 @@ nombre del fichero^
 
 
     sudo systemctl start apache2
+    inisiar servidor apache2
 
     sudo systemctl stop apache2
+    detener servidor apache2
 
     sudo systemctl status apache2
+    ver el estado del servidor apache2
